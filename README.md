@@ -5,7 +5,7 @@
 
 ## 🔐 Projects:
 
-- 📍 Right now I am involved in learning LUA.
+- 📍 Right now I am involved in learning mainly LUA.
 - ☕ Developing MI-Core.
 
 
