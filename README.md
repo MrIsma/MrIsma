@@ -1,6 +1,6 @@
 # Hi, how are you? My aka is "Isma"
 
-- 🪼 Fivem Forum: <a href="https://forum.cfx.re/u/mrisma">Isma</a>
+- 🌵 Fivem Forum: <a href="https://forum.cfx.re/u/mrisma">Isma</a>
 - 📭 Discord: isma5110
 
 ## 🔐 Projects:
